@@ -21,6 +21,7 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar">
+        <div className="navbar-brand">SkyHook</div>
         <ul>
           <li><a href="#home">Home</a></li>
           <li><a href="#about">About</a></li>
